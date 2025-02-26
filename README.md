@@ -16,10 +16,10 @@ A simple **C program** that helps users determine the best sleep and wake-up tim
 ## 📁 Project Structure
 
 /sleep_calculator_project
--- │── main.c
--- ── sleep_calculator.c
--- │── sleep_calculator.h
--- │── Makefile (optional)
+- main.c
+- sleep_calculator.c
+- sleep_calculator.h
+- Makefile (optional)
 ## 🛠️ Installation & Compilation
 ### **Option 1: Manual Compilation**
 To compile and run the project without `Makefile`, use:
@@ -27,8 +27,8 @@ To compile and run the project without `Makefile`, use:
 ```sh
 gcc -o sleep_calculator main.c 
 ./a.exe
-``
-**Option 2(Optional): If you're using Linux/macOS and want to compile everything easily**
+
+Option 2(Optional): If you're using Linux/macOS and want to compile everything easily
 ```sh
 make
 ./a.exe
