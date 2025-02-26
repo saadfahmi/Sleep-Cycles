@@ -32,7 +32,7 @@ gcc -o sleep_calculator main.c
 Option 2(Optional): If you're using Linux/macOS and want to compile everything easily
 ```sh
 make
-./a.exe
+./sleep_calculator
 
 
 
