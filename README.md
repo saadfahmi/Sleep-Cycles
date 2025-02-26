@@ -2,7 +2,7 @@
 
 ## Licence
 
-**This project is open-source and can be modified freely.**
+This project is open-source and can be modified freely.
 
 A simple **C program** that helps users determine the best sleep and wake-up times based on **90-minute sleep cycles**. The program considers the **average time to fall asleep (15 minutes)** and provides recommended sleep or wake-up times for optimal rest.
 
